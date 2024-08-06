@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(227, 235, 235);
+}
+.logo, h1{
+    color: rgb(244, 87, 87); 
+    font-family: 'Consolas';
+}
